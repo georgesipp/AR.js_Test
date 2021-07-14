@@ -1,0 +1,16 @@
+# Blender MTL File: 'horstitest.blend'
+# Material Count: 1
+
+newmtl horsti
+Ns 160.828523
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Blender\\Blender\\Results\\Horsti\\horse_normal.png
+map_Kd D:\\Blender\\Blender\\Results\\Horsti\\horse_col.png
+map_Ks D:\\Blender\\Blender\\Results\\Horsti\\horse_glos.png
+map_Ns D:\\Blender\\Blender\\Results\\Horsti\\horse_roughness.png
